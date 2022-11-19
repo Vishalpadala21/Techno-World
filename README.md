@@ -39,11 +39,14 @@ This is a web based application developed for technology related telugu based we
 ### Privacy policy -
 ![privacy policy](https://user-images.githubusercontent.com/112318283/197389095-ca254439-a9f1-4ab3-bbb9-c2839ee25994.jpeg)
 
+### Primary Azure Technology
+1. Microsoft Azure Portal
+![image](https://user-images.githubusercontent.com/112318283/202836711-f78e69bb-9fcd-4e21-a1d8-ca2a43d407b2.png)
+2. App Services and Web app
+![image](https://user-images.githubusercontent.com/112318283/202836806-79294411-2181-4a63-bb51-97da4fb16dae.png)
+
 
 ## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Microsoft Azure
 - HTML
-- CSS
-- Bootstrap
-- JavaScript
+
