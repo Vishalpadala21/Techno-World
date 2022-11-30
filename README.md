@@ -1,4 +1,4 @@
-# TechnoWorld
+# Techno-World
 
 This is a web based application developed for technology related telugu based website in india
 
